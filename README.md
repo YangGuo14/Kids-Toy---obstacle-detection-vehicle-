@@ -1,2 +1,2 @@
 # Arduino Game - Melodic Memory
-This is the final individual project
+This is the final individual project for ECE 387
