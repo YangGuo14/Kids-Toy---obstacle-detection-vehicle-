@@ -1,2 +1,2 @@
-# Kids-Toy---obstacle-detection-vehicle
+# Simon Says
 This is the final individual project
