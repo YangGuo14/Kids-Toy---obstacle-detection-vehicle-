@@ -168,3 +168,5 @@ Here is the Youtube [link](https://youtu.be/uPIL42CMPg8) to show how to play thi
 
 ## Reference
 Original Code: https://github.com/Narenthan009/SIMON-SAYS
+
+This project was based on Narenthan's Code, but I cannot just run it and upload, I try my best to understand its logic, function. Then rebuild this project and run it successfully with more reasonable. 
