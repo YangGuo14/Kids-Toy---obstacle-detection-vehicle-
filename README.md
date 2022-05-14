@@ -57,7 +57,7 @@ Now the whole circuit:
 ![image](https://user-images.githubusercontent.com/98714679/168403345-052d96fe-9e5d-4a72-b87a-5ab5d0aeab89.png)
 
 ## Functions
-You can select two game mode, mode 1 is "Rpeat mode"(Progressive mode). It will repeat previous melody in the last round and generate a new random tone in current round.
+You can select two game mode, mode 1 is "Repeat mode"(Progressive mode). It will repeat previous melody in the last round and generate a new random tone in current round.
 
 Mode 2 is "Random mode", each round the melody are totally random! You cannot pass your round by memorizing the sequence in the last round. 
 
