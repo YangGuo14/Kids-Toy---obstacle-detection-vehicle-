@@ -65,6 +65,15 @@ You can press button 1 to select "Repeat mode" and button 2 to select "Random mo
 
 ![image](https://user-images.githubusercontent.com/98714679/168404392-6e2bef13-2465-400a-9bcc-223a93442580.png)
 
+## Things You Can Change
+To make this project more fun, I used LCD Custom Character to DIY my own character display on LCD screen
+
+![image](https://user-images.githubusercontent.com/98714679/168404492-7caab861-e33b-4472-9be5-71d56a3f2a3b.png)
+
+You can use LCD Custom Character Generator to design your custom character, For example, thumbs down, smile face or sad face. 
+
+## Difficulties(Reflection) and Future improvement 
+Through this project, I realized that my coding skills are very weak. At first I thought of writing the code by myself from scratch, but after spending a lot of time and making no progress, I realized that I might not be able to finish the project if I continued to write original code myself. So I start to search any related Tutorials
 
 ## Reference
 https://github.com/Narenthan009/SIMON-SAYS
