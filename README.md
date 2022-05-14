@@ -73,7 +73,13 @@ To make this project more fun, I used LCD Custom Character to DIY my own charact
 You can use LCD Custom Character Generator to design your custom character, For example, thumbs down, smile face or sad face. 
 
 ## Difficulties(Reflection) and Future improvement 
-Through this project, I realized that my coding skills are very weak. At first I thought of writing the code by myself from scratch, but after spending a lot of time and making no progress, I realized that I might not be able to finish the project if I continued to write original code myself. So I start to search any related Tutorials
+Through this project, I realized that my coding skills are very weak. At first I thought of writing the code by myself from scratch, but after spending a lot of time and making no progress, I realized that I might not be able to finish this project if I continued to write original code myself. So I start to search any related tutorials from Google and GitHub. So the code I uploaded is largely based on the original code, but I made some improvements and optimizations. From the lab we did in this semester, instructor has posted enough explanation and example code to help me to finish my lab assignment, in most cases, I only need to change a very small part of the sample code. This resulted in me have to cite a lot of resources from online and my original part is very little in this project. This is a very serious problem I realized. So in the future, I plan to improve my skills on coding: C, Java or Python. 
+
+## Unfinished Parts
+I was planning to use a box to make my project looks more like a real "toy": 4 buttons and LEDs on the top of box, buzzer and circuit inside the box. But I found it is a little more difficult to implement than I thought. Regarding the failure here, I realized that being an engineer, I can't be limited to just implementing a project on a breadboard, I also have to consider its practical application, after all people cannot use your product without beautiful design - Isn't it ridiculous to hold a breadboard in your hand?
+
+## Video Demonstration
+Here is the Youtube [link](https://github.com/Narenthan009/SIMON-SAYS) to show how to play this game.
 
 ## Reference
-https://github.com/Narenthan009/SIMON-SAYS
+Original Code: https://github.com/Narenthan009/SIMON-SAYS
